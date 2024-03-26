@@ -19,6 +19,7 @@ You can also use [GitHub Codespaces](https://docs.github.com/en/codespaces/devel
 
 - **[Online demo](https://replit.com/@dhtmlx/dhtmlx-vault-with-react)**
 - [More demos about the DHTMLX Vault functionality](https://snippet.dhtmlx.com/26x2jra2?tag=vault)
+- [A step-by-step guide about the DHTMLX Vault and React integration](https://docs.dhtmlx.com/vault/react_integration.html) 
 - [Technical support ](https://forum.dhtmlx.com/c/vault)
 - [Documentation](https://docs.dhtmlx.com/vault)
 
