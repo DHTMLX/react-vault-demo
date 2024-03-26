@@ -2,8 +2,7 @@
 
 [![dhtmlx.com](https://img.shields.io/badge/made%20by-DHTMLX-blue)](https://dhtmlx.com/)    
 
-![DHTMLX Vault with Angular Demo](https://raw.githubusercontent.com/DHTMLX/react-vault-demo/master/vault.png) 
-
+<img src="https://raw.githubusercontent.com/DHTMLX/react-vault-demo/master/vault.png" width="550">
 
 ## How to start
 
